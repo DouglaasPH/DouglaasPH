@@ -85,6 +85,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
+<p>
 <img
 align='left' 
 height='200'
@@ -96,4 +97,5 @@ src="https://github-readme-stats.vercel.app/api?username=douglaasph&show_icons=t
 align='left' 
 height='200'
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
-/>
+/>          
+</p>
