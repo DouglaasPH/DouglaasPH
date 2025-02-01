@@ -86,11 +86,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 <p
-style='width=100%; display:flex; flex-direction:row; align-items:center; justify-content: space-between;'>
+style='display:flex; flex-direction:row; align-items:center; justify-content: space-between;' background-color:red; >
 <img
 align='left' 
 height='200'
-style='padding-right: 10px;'
 src="https://github-readme-stats.vercel.app/api?username=douglaasph&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
