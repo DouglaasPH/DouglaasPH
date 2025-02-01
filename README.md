@@ -9,7 +9,7 @@ Meu nome é Douglas Phelipe, tenho 17 anos e sou natural de Pernambuco. Estou em
 ### 🤖 Linguagens e Tecnologias
 
 
->
+
 <img 
 align='left'
 width='30px'
@@ -85,11 +85,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 
 ### 📊 Estatísticas
 
-<p
-style='display:flex; flex-direction:row; align-items:center; justify-content: space-between;' background-color:red; >
 <img
 align='left' 
 height='200'
+style='padding-right: 10px;'
 src="https://github-readme-stats.vercel.app/api?username=douglaasph&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
 />
 
@@ -98,4 +97,3 @@ align='left'
 height='200'
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
 />          
-</p>
