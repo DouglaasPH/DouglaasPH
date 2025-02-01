@@ -86,7 +86,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 ### 📊 Estatísticas
 
 <p
-style='display:flex; flex-direction:row; align-items:center;'>
+style='width=100%; display:flex; flex-direction:row; align-items:center; justify-content: space-between;'>
 <img
 align='left' 
 height='200'
