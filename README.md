@@ -8,27 +8,6 @@ Meu nome é Douglas Phelipe, tenho 17 anos e sou natural de Pernambuco. Atualmen
 
 ### 🤖 Linguagens e Tecnologias
 
-
-
-<img 
-align='left'
-width='30px'
-style='padding-right: 10px;'
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-
-
-<img 
-align='left'
-width='30px'
-style='padding-right: 10px;'
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
-<img 
-align='left'
-width='30px'
-style='padding-right: 10px;'
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-
 <img 
 align='left'
 width='30px'
@@ -50,8 +29,26 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 <img 
 align='left'
 width='30px'
+style='padding-right: 10px;'         
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+
+<img 
+align='left'
+width='30px'
 style='padding-right: 10px;'
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+
+<img 
+align='left'
+width='30px'
+style='padding-right: 10px;'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+
+<img 
+align='left'
+width='30px'
+style='padding-right: 10px;'
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 
 <img
 align='left' 
