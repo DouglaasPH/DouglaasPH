@@ -2,7 +2,7 @@
 
 **`Estudante de Desenvolvimento Web`**
 
-Meu nome é Douglas Phelipe, tenho 17 anos e sou natural de Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia em Pernambuco (IFPE), onde busco aprofundar meus conhecimentos na área de tecnologia. Paralelamente, dedico-me ao estudo autodidata de desenvolvimento web, aprimorando minhas habilidades para me tornar um profissional qualificado. Sou apaixonado por tecnologia e estou constantemente em busca de novos aprendizados e desafios para expandir meu conhecimento e contribuir com inovações no campo digital.
+Meu nome é Douglas Phelipe, tenho 18 anos e sou natural de Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia em Pernambuco (IFPE), onde busco aprofundar meus conhecimentos na área de tecnologia. Paralelamente, dedico-me ao estudo autodidata de desenvolvimento web, aprimorando minhas habilidades para me tornar um profissional qualificado. Sou apaixonado por tecnologia e estou constantemente em busca de novos aprendizados e desafios para expandir meu conhecimento e contribuir com inovações no campo digital.
 
 ---
 
