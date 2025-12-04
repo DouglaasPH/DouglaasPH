@@ -1,9 +1,10 @@
 # 👨‍💻 Douglas Phelipe
 
-**`Estudante de Desenvolvimento Web`**
+**`Desenvolvedor Full Stack`**
 
-Meu nome é Douglas Phelipe, tenho 18 anos e sou natural de Pernambuco. Atualmente, curso Análise e Desenvolvimento de Sistemas no Instituto Federal de Educação, Ciência e Tecnologia em Pernambuco (IFPE), onde busco aprofundar meus conhecimentos na área de tecnologia. Paralelamente, dedico-me ao estudo autodidata de desenvolvimento web, aprimorando minhas habilidades para me tornar um profissional qualificado. Sou apaixonado por tecnologia e estou constantemente em busca de novos aprendizados e desafios para expandir meu conhecimento e contribuir com inovações no campo digital.
+Sou desenvolvedor full stack focado em entregar soluções completas, funcionais e bem estruturadas. Além de criar aplicações, tenho forte interesse em resolver problemas de forma objetiva, entendendo o contexto, propondo melhorias e buscando sempre a solução mais clara e eficiente.
 
+Valorizo organização, boas práticas, documentação e colaboração. Acredito que desenvolvimento de software é um processo contínuo de análise, aprendizado e aprimoramento.
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -103,6 +104,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-ori
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 
+
+<img
+  align='left' 
+  width='30px'
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
+/>
+          
 
 <img
   align='left' 
