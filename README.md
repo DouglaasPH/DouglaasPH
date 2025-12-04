@@ -5,6 +5,7 @@
 Sou desenvolvedor full stack focado em entregar soluções completas, funcionais e bem estruturadas. Além de criar aplicações, tenho forte interesse em resolver problemas de forma objetiva, entendendo o contexto, propondo melhorias e buscando sempre a solução mais clara e eficiente.
 
 Valorizo organização, boas práticas, documentação e colaboração. Acredito que desenvolvimento de software é um processo contínuo de análise, aprendizado e aprimoramento.
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
