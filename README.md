@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Full Stack`**
 
-Sou desenvolvedor full stack focado em entregar soluções completas, funcionais e bem estruturadas. Além de criar aplicações, tenho forte interesse em resolver problemas de forma objetiva, entendendo o contexto, propondo melhorias e buscando sempre a solução mais clara e eficiente.
+Sou desenvolvedor full stack em estágio inicial de carreira com experiência em projetos pessoais e voluntários. Atuo no desenvolvimento de aplicações web, autenticação, integração
+frontend/backend, APIs e uso de AWS.
 
 Valorizo organização, boas práticas, documentação e colaboração. Acredito que desenvolvimento de software é um processo contínuo de análise, aprendizado e aprimoramento.
 
