@@ -144,5 +144,5 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-ori
 <img
   align='left' 
   height='190'
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglaasph&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=10"
 />          
