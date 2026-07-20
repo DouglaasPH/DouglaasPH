@@ -33,12 +33,14 @@ Valorizo organização, boas práticas, documentação e colaboração. Acredito
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 
+
 <img 
   align='left'
   width='30px'
-  style='padding-right: 10px;'         
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+  style='padding-right: 10px;'
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"
 />
+
 
 <img 
   align='left'
@@ -54,21 +56,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-ori
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
-<img 
-  align='left' 
-  width='30px'
-  style='padding-right: 10px;'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" 
-/>          
-
-
-<img 
-  align='left' 
-  width='30px'
-  style='padding-right: 10px;'
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" 
-/>
 
 <img 
   align='left' 
