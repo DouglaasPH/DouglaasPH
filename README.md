@@ -2,7 +2,7 @@
 
 Sou Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas, com formação prevista para 2027.1.
 
-Tenho experiência em Java 8+ com Spring Boot, JUnit e Mockito, e JavaScript/TypeScript com Angular ou React, desenvolvendo APIs REST e aplicações web. Tenho experiência com PostgreSQL e MySQL, além de práticas como DDD, TDD, Clean Code, SOLID, Design Patterns, e conhecimento em MVC, Arquitetura Hexagonal e Microsserviços.
+Tenho experiência em Java 8+ com Spring Boot, JUnit e Mockito, e JavaScript/TypeScript com Angular ou React, desenvolvendo APIs REST e aplicações web. Tenho experiência com PostgreSQL e MySQL, além de práticas como DDD, TDD, Clean Code, SOLID, Design Patterns, e conhecimento em MVC, Arquitetura Hexagonal e Microsserviços. Também possuo experiência com serviços de mensageria, como AWS SQS, AWS SNS e RabbitMQ.
 
 Possuo conhecimento em Terraform para infraestrutura como código (IaC) e AWS, além de certificações AWS Cloud Practitioner, AWS Developer Associate e AWS Solutions Architect Associate.
 
