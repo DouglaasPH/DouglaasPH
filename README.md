@@ -1,12 +1,12 @@
 # 👨‍💻 Douglas Phelipe
 
-**`Desenvolvedor Full Stack`**
+Sou Desenvolvedor Full Stack e estudante de Análise e Desenvolvimento de Sistemas, com formação prevista para 2027.1.
 
-Sou desenvolvedor full stack em estágio inicial de carreira com experiência em projetos pessoais e acadêmicos. Atuo no desenvolvimento de aplicações web, autenticação, integração
-frontend/backend, APIs e uso de AWS.
+Tenho experiência em Java 8+ com Spring Boot, JUnit e Mockito, e JavaScript/TypeScript com Angular ou React, desenvolvendo APIs REST e aplicações web. Tenho experiência com PostgreSQL e MySQL, além de práticas como DDD, TDD, Clean Code, SOLID, Design Patterns, e conhecimento em MVC, Arquitetura Hexagonal e Microsserviços.
 
-Valorizo organização, boas práticas, documentação e colaboração. Acredito que desenvolvimento de software é um processo contínuo de análise, aprendizado e aprimoramento.
+Possuo conhecimento em Terraform para infraestrutura como código (IaC) e AWS, além de certificações AWS Cloud Practitioner, AWS Developer Associate e AWS Solutions Architect Associate.
 
+<a href="https://douglaasph.github.io/portfolio/">Portfólio</a>
 
 ---
 
